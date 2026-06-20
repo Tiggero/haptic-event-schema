@@ -435,7 +435,7 @@ HSF 使用 JSON 作为载体，结构如下：
 
 引用方式：
 
-捉秀 Haptic Event Schema (HES) v0.1. (2026). 取自 https://github.com/Tiggero/haptic-event-schema
+捉秀 Haptic Event Schema (HES) v0.1. (2026). 取自 https://github.com/izhuoxiu/haptic-event-schema
 
 ---
 
