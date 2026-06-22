@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/status-draft-orange)](https://github.com/your-username/haptic-event-schema)
 
 ---
-https://www.doubao.com/building/render/a0bfeeab4e801?a=
+
 ---
 
 ## 为什么需要 HES？
