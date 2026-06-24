@@ -1,5 +1,5 @@
 # Multimodal Feedback Schema (MFS)
-[![Version](https://img.shields.io/badge/version-0.2.2-blue)](https://github.com/izhuoxiu/MFS)
+[![Version](https://img.shields.io/badge/version-0.2.3-blue)](https://github.com/izhuoxiu/MFS)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 一种通用的多模态触觉与声光交互描述语言
